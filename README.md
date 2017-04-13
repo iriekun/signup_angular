@@ -6,6 +6,11 @@ This is a simple web application that contains only the signup page using angula
 
 Download or clone project at https://github.com/iriekun/signup_angular.git
 run command: 
+npm install
 
+## Run
+
+ng serve
+open browser and type http://localhost:4200/
 
 
